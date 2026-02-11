@@ -1,6 +1,8 @@
 # Pronostic-python
 Programma Python per la creazione di pronostici
 
+☕ Offrimi un caffè: https://buymeacoffee.com/bitnbit
+
 IL GIOCO È SEVERAMENTE VIETATO AI MINORI DI 18 ANNI
 Questo programma, trasmesso in chiaro, ha SOLO finalità EDUCATIVE.
 Non è in alcun modo consentita la replica.
